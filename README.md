@@ -56,7 +56,7 @@ pip install secure-smtplib
 pip install Flask
 ```
 ## SMTP Library
-<p>Put your mail id mail <b>from_mail</b> and <b>to_mail</b> and your passkey in <b>password</b> to get the passkey you need go to <a href = "https://www.google.com/account/about/passkeys/">passkey</a> ,get it from there and put in the field</p>
+<p>Put your mail id into <b>from_mail</b> and <b>to_mail</b> and your passkey in <b>password</b> to get the passkey you need go to <a href = "https://www.google.com/account/about/passkeys/">passkey</a> ,get it from there and put in the field</p>
 
 ## Clone the Repository
 <p>open the terminal on windows or linux and paste this code</p>
