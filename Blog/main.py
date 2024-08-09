@@ -28,7 +28,7 @@ def form_action():
         text =  request.form['text']
         from_mail = "" #YOUR MAIL 1
         password = "" #YOUR PASSKEY 
-        to_mail = "" #YOUR MAIL @
+        to_mail = "" #YOUR MAIL 2
         subject = "Message from your blog readers"
         message = f"Subject: {subject}\n\n Name : {name} \n Email : {email} \n Message : {text}"
         try:
